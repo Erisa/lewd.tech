@@ -1,9 +1,9 @@
 https://:project.pages.dev/:path
-  Link: <https://evenfall.site/:path>; rel="canonical"
+  Link: <https://lewd.tech/:path>; rel="canonical"
   X-Robots-Tag: noindex
 
 https://:commit.:project.pages.dev/:path
-  Link: <https://evenfall.site/:path>; rel="canonical"
+  Link: <https://lewd.tech/:path>; rel="canonical"
 
 /*
     Permissions-Policy: interest-cohort=()
